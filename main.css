@@ -153,3 +153,8 @@ body{
 #social-cp{
   color: #000000;
 }
+#about, #skills{
+  margin: 0 auto;
+  margin-bottom: 5%;
+  width: 75%;
+}
